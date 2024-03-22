@@ -1,0 +1,149 @@
+.judul-atas{
+      background-color:rgba(0, 0, 0, 0.76)
+}
+
+
+
+.judul{
+      font-family:arial;
+      font-size: 60px;
+      text-align:center;
+      color: white;
+      margin-top: 0;
+      font-weight:bolder;
+      font-weight: bolder;
+      
+}
+.shoes1{
+      width:58%;
+}
+
+.shoes2{
+      margin-left:auto;
+      margin-right:auto;
+      width:90%;
+      
+}
+.shoes3{
+      width:48%;
+}
+.shoes4{
+      width:50%;
+      
+}
+.shoes5{
+      width:150px;
+}
+.search-bar{
+      font-size: 18px;
+      margin-left: 17vh;
+      width: 20rem;
+      border-radius: 10px;
+      float:right;
+      padding-top: 10px;
+      
+}
+.shoes1-text{
+      font-family: arial;
+      font-size:larger;
+      text-align: center;
+      
+}
+.shoes2-text{
+      font-family:Arial;
+      font-size:large;
+      text-align:center;
+      
+}
+.shoes3-text{
+      font-family: arial;
+      font-size:larger;
+      text-align:center;
+      
+}
+.shoes4-text{
+      font-family:arial;
+      font-size:larger;
+      text-align:center;
+}
+.shoes5-text{
+      font-family:arial;
+      font-size:larger;
+      text-align:center;
+}
+.shoes6-text{
+      font-family:Arial;
+      font-size:larger;
+      text-align:center;
+}
+.sepatu1{
+      background-color:white;
+      border-radius:10%;
+      margin-left:8%;
+      
+
+}
+.sepatu2{
+      background-color:white;
+      border-radius:10%;
+      margin-left:10%;
+}
+.sepatu3{
+      width:25.5%;
+      background-color: white;
+      margin-left:10%;
+      border-radius:10%; 
+      margin-top:7%;
+}
+.sepatu4{
+      margin-left:8%;
+      background-color: white;
+      margin-top:3%;
+      border-radius:10%;
+}
+.sepatu5{
+      margin-left:4%;
+      background-color:white;
+      margin-top:1%;
+      border-radius:10%;
+}
+.sepatu6{
+      height:260px;
+      margin-left:10%;
+      border-radius:10%;
+      background-color: white;
+}
+.sepatu1,.sepatu2{
+      float: left;
+      margin-top:10%;
+      
+}
+.sepatu4,.sepatu5,.sepatu6{
+      float:left;
+      margin-top:10%;
+}
+
+.sepatu1:hover{
+      cursor: pointer;
+      opacity: 0.9;
+}
+.sepatu2:hover{
+      cursor: pointer;
+      opacity:0.9;
+}
+.sepatu3:hover{
+      cursor:pointer;
+      opacity:0.9;
+}
+.sepatu4:hover{
+      cursor:pointer;
+      opacity:0.9;
+}
+.sepatu5:hover{
+      cursor:pointer;
+      opacity:0.9;
+}
+.sepatu6:hover{
+      cursor:pointer;
+      opacity:0.9;
+}
